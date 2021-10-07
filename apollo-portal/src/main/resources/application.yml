@@ -28,7 +28,7 @@ spring:
     jdbc:
       initialize-schema: never
 server:
-  port: 8070
+  port: 28070
   compression:
     enabled: true
   tomcat:
